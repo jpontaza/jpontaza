@@ -6,7 +6,10 @@
 
 Tengo el deseo, desde hace mucho tiempo, de aprender a programar  
 porque siento que eso me permite crear algo útil con  
-mis manos y mi mente. 
+mis manos y mi mente.  
+
+> "Es importante nunca rendirse"
+
 
 **Considero necesario**
 - paciencia

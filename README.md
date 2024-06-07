@@ -1,4 +1,5 @@
 # Javier Pontaza 
+[Mi perfil de Github][gitprofile]
 ## Programador aprendiz
 
 > "La constancia supera al talento"  
@@ -52,4 +53,5 @@ cosas como `git --version` que me muestra la versión de git
 ---
 [fcode]:https://www.freecodecamp.org/
 [img_free]:https://cdn.iconscout.com/icon/free/png-256/free-free-codecamp-3628782-3030144.png
+[gitprofile]:https://github.com/jpontaza
 
